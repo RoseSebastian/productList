@@ -1,0 +1,8 @@
+.productCatalogImage{
+    height: 400px;
+    object-fit: cover;
+}
+.productImage {
+    height: 250px;
+    object-fit: contain;
+}
